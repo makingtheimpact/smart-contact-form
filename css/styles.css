@@ -1,0 +1,26 @@
+/* Spam Guard Contact Form Styles */
+
+.scf-error {
+  color: red;
+  font-style: italic;
+  font-size: 0.8em;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+.scf-input-error {
+  border: 1px solid red !important;
+}
+
+.scf-input-field label {
+  display: block;
+}
+.scf-input-field {
+  margin-bottom: 1em;
+}
+.scf-confirmation-message {
+  text-align: center;
+  font-style: italic;
+}
+.scf-simple-form-confirm {
+  text-align: center;
+}
